@@ -60,6 +60,7 @@ body:
       - 29
       - 30
       - 31
+    default: 2
   validations:
     required: true
 - type: input
