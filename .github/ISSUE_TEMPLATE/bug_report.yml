@@ -13,6 +13,7 @@ body:
 - type: checkboxes
   id: requirements
   attributes:
+    label: ''
     description: Please check the suggestion below before proceeding
     options:
       - label: I am using the latest version of `dirvish` related packages.
